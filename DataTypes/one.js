@@ -1,0 +1,10 @@
+const name = "shreya";
+const age = 23;
+const salary = 23000;
+const student = false;
+const city = "Pune";
+console.log(name);
+console.log(age);
+console.log(salary);
+console.log(student);
+console.log(city);
